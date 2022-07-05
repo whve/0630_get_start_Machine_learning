@@ -1,0 +1,22 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 学习之路
+有点无聊，不太想学了。
+```{r}
+#install.packages("reticulate")
+# library('reticulate')
+autoplot(task)
+
+```
+
+```{python}
+print("123")
+```
+
